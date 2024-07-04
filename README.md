@@ -1,4 +1,3 @@
-![MasterHead](https://media.licdn.com/dms/image/D5616AQFfmgHr820TYQ/profile-displaybackgroundimage-shrink_350_1400/0/1704562875227?e=1710374400&v=beta&t=mt3UM17gFkNFjSbav9rWyc3B3RPMPOR1eceNLBqFD7o)
 <h1 align="center">Hi 👋, I'm Anurag Chauhan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
